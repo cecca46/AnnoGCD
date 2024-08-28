@@ -9,3 +9,10 @@ The identification of cell types in single-cell RNA sequencing (scRNA-seq) data 
 
 All the dependencies needed to run this project are specified in `NCD/requirements.txt`
 
+## Project Structure
+
+- **`NCD/main.py`**: The entry point of the project. This script handles the training and evaluation of the GNN model.
+- **`NCD/model.py`**: Contains the implementation of the GNN model, including the Encoder, Discriminator, and the overall DGI model architecture.
+- **`NCD/train_utils.py`**: Includes utility functions for training the model, such as accuracy computation and loss functions.
+- **`NCD/utils.py`**: Provides additional utility functions such as data preprocessing, clustering accuracy calculation, and graph adjacency matrix construction.
+
