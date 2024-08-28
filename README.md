@@ -20,3 +20,6 @@ All the dependencies needed to run this project are specified in `NCD/requiremen
 - **`NCD/train_utils.py`**: Includes utility functions for training the model, such as accuracy computation and loss functions.
 - **`NCD/utils.py`**: Provides additional utility functions such as data preprocessing, clustering accuracy calculation, and graph adjacency matrix construction.
 
+## Notebook and example
+
+A python notebook is provided in `NCD/notebook/NCD.ipynb` to reproduce the results and figure of the paper. Simply change the data directory to the preferred dataset to analyse. 
