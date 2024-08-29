@@ -22,4 +22,4 @@ All the dependencies needed to run this project are specified in `NCD/requiremen
 
 ## Notebook and example
 
-A python notebook is provided in `NCD/notebook/NCD.ipynb` to reproduce the results and figure of the paper. Simply change the data directory to the preferred dataset to analyse. 
+A python notebook is provided in `NCD/notebook/NCD.ipynb` to reproduce the results and figures in the paper. Simply change the data directory to the preferred dataset you wish to analyse. 
