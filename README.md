@@ -18,7 +18,7 @@ To install the necessary dependencies, clone the repository and run:
 ```bash
 git clone https://github.com/cecca46/AnnoGCD.git
 cd NCD
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
 
 ## Data
