@@ -14,7 +14,10 @@ The identification of cell types in single-cell RNA sequencing (scRNA-seq) data 
 ## Installation
 
 To install the necessary dependencies, clone the repository and run:
-
+```bash
+git clone https://github.com/cecca46/AnnoGCD.git
+cd NCD
+pip install -r requirements.txt
 
 
 ## Data
@@ -23,7 +26,7 @@ Pre-processed publically available data for the human single cell benchmarking i
 - **BM-CITE**: Human bone marrow mononuclear cells.
 - **LUNG-CITE**: Human peripheral blood mononuclear cells from lung.
 - **PBMC-Multiome**: Human peripheral blood mononuclear cells.
-- **PBMC-TEA*: Human PBMC cells measured with the TEA-seq protocol.
+- **PBMC-TEA**: Human PBMC cells measured with the TEA-seq protocol.
 - **PBMC-DOGMA**: Human PBMCs measured with the DOGMA-seq protocol.
 
 
