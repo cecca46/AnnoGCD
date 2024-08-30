@@ -197,7 +197,7 @@ This document provides a brief description of the functions available in the `tr
   - `model` (DGI): The trained DGI model.
 
 ## Overview
-This document provides a brief description of the classes and functions available in the provided script.
+This document provides a brief description of the functions available in the `model.py` script.
 
 ---
 
